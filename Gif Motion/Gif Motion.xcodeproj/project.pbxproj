@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		910B98F91D79510700FA7373 /* NewCome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910B98F81D79510700FA7373 /* NewCome.swift */; };
 		91BE68F41D77E542000FFC58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91BE68F31D77E542000FFC58 /* AppDelegate.swift */; };
 		91BE68F91D77E542000FFC58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91BE68F71D77E542000FFC58 /* Main.storyboard */; };
 		91BE68FB1D77E542000FFC58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91BE68FA1D77E542000FFC58 /* Assets.xcassets */; };
@@ -44,7 +43,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		910B98F81D79510700FA7373 /* NewCome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewCome.swift; sourceTree = "<group>"; };
 		91BE68F01D77E542000FFC58 /* Gif Motion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Gif Motion.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		91BE68F31D77E542000FFC58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		91BE68F81D77E542000FFC58 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -126,7 +124,6 @@
 				91BE69211D77E648000FFC58 /* AVAssetimageGeneratorTimerPoints.swift */,
 				91BE69231D77E65A000FFC58 /* Regift.swift */,
 				91BE69251D77E66B000FFC58 /* RegiftCaption.swift */,
-				910B98F81D79510700FA7373 /* NewCome.swift */,
 				91BE69291D77F10D000FFC58 /* ViewController.swift */,
 				91BE692B1D77F189000FFC58 /* VideoRecording.swift */,
 				91BE692D1D77F8C8000FFC58 /* WelcomeViewController.swift */,
@@ -290,7 +287,6 @@
 				91BE69341D78339A000FFC58 /* GIF.swift in Sources */,
 				91BE692A1D77F10D000FFC58 /* ViewController.swift in Sources */,
 				91BE69241D77E65A000FFC58 /* Regift.swift in Sources */,
-				910B98F91D79510700FA7373 /* NewCome.swift in Sources */,
 				91BE69321D782460000FFC58 /* GifEditorViewController.swift in Sources */,
 				91BE69261D77E66B000FFC58 /* RegiftCaption.swift in Sources */,
 				91BE692C1D77F189000FFC58 /* VideoRecording.swift in Sources */,
