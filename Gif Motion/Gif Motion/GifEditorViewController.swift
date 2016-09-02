@@ -31,3 +31,13 @@ class GifEditorViewController: UIViewController {
 
 
 }
+extension GifEditorViewController: UITextFieldDelegate {
+	func textFieldDidBeginEditing(textField: UITextField) {
+		textField.placeholder = ""
+	}
+	
+	func textFieldShouldReturn(textField: UITextField) -> Bool {
+		textField.resignFirstResponder()
+		return true
+	}
+}
